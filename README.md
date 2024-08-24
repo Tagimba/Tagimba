@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tagimba aka Hafsat Ahmad
 - 👀 I’m interested in Open Science methods and applications in Africa...
-- 🌱 I’m currently learning Open source with github
+- 🌱 I’m currently learning Open source with AREN
 - 💞️ I’m looking to collaborate on Open science projects
 - 📫 How to reach me hafsahahmad@ymail.com
 - 😄 Pronouns: no worries
